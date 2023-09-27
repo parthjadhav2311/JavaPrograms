@@ -1,4 +1,4 @@
-// Take input 3 values & calculate Multiplication
+
 
 import java.util.Scanner;
 
